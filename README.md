@@ -15,9 +15,9 @@
 
 <br><br>
 
-- 🎓 Soy **Programador Backend**, con foco en ** Java y Spring Boot**.  
-- 💻 Me interesa construir **APIs seguras y escalables** con **JWT, MySQL y Hibernate**.  
-- 📚 Actualmente aprendiendo sobre **arquitectura backend, microservicios y despliegue en la nube**.  
+- 🎓 Soy ***Programador Backend*** en Java  
+- 💻 Me interesa construir ***APIs seguras y escalables*** con ***JWT, MySQL y Hibernate***.  
+- 📚 Conocimientos ***arquitectura backend, microservicios y despliegue en la nube***.  
 - 🚀 Objetivo: conseguir mi primera oportunidad como **Backend Developer Junior**, aportar valor en proyectos reales y seguir creciendo como profesional.  
 
 <br>
